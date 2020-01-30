@@ -1,6 +1,8 @@
 # Real MySQL
-## 책 정보
-![real-mysql-book-image](https://user-images.githubusercontent.com/34755287/73429951-31498c80-4380-11ea-8175-f2f8bc0c7ddb.png){: .center}
+
+<center>
+    <img src="https://user-images.githubusercontent.com/34755287/73429951-31498c80-4380-11ea-8175-f2f8bc0c7ddb.png">
+</center>
 
 - [책 정보](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788992939003&orderClick=LAG&Kc=)
 
